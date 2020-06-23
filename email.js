@@ -32,7 +32,7 @@ app.get("/", function (req, res) {
         secure: true,
         auth:{
           user: 'vinothak1220@gmail.com',
-          pass: 'LastUpdated@01'
+          pass: 'your password here'
         }
       
     });
